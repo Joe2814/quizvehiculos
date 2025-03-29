@@ -1,0 +1,114 @@
+[
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anio": 2022,
+    "color": "Blanco",
+    "fecha_compra": "2023-03-01"
+  },
+  {
+    "marca": "Honda",
+    "modelo": "Civic",
+    "anio": 2021,
+    "color": "Negro",
+    "fecha_compra": "2022-06-15"
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Focus",
+    "anio": 2020,
+    "color": "Azul",
+    "fecha_compra": "2021-08-20"
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Malibu",
+    "anio": 2019,
+    "color": "Rojo",
+    "fecha_compra": "2020-05-10"
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Sentra",
+    "anio": 2023,
+    "color": "Gris",
+    "fecha_compra": "2023-01-25"
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "3",
+    "anio": 2018,
+    "color": "Plata",
+    "fecha_compra": "2019-07-30"
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Elantra",
+    "anio": 2021,
+    "color": "Verde",
+    "fecha_compra": "2022-09-12"
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Jetta",
+    "anio": 2022,
+    "color": "Negro",
+    "fecha_compra": "2023-02-14"
+  },
+  {
+    "marca": "Kia",
+    "modelo": "Forte",
+    "anio": 2019,
+    "color": "Blanco",
+    "fecha_compra": "2020-11-05"
+  },
+  {
+    "marca": "Subaru",
+    "modelo": "Impreza",
+    "anio": 2020,
+    "color": "Azul",
+    "fecha_compra": "2021-06-22"
+  },
+  {
+    "marca": "Tesla",
+    "modelo": "Model 3",
+    "anio": 2022,
+    "color": "Rojo",
+    "fecha_compra": "2023-04-08"
+  },
+  {
+    "marca": "BMW",
+    "modelo": "Serie 3",
+    "anio": 2019,
+    "color": "Gris",
+    "fecha_compra": "2020-12-18"
+  },
+  {
+    "marca": "Mercedes-Benz",
+    "modelo": "Clase C",
+    "anio": 2021,
+    "color": "Negro",
+    "fecha_compra": "2022-08-29"
+  },
+  {
+    "marca": "Audi",
+    "modelo": "A4",
+    "anio": 2020,
+    "color": "Plata",
+    "fecha_compra": "2021-03-11"
+  },
+  {
+    "marca": "Jeep",
+    "modelo": "Wrangler",
+    "anio": 2018,
+    "color": "Verde",
+    "fecha_compra": "2019-09-17"
+  },
+  {
+    "marca": "Ram",
+    "modelo": "1500",
+    "anio": 2023,
+    "color": "Azul",
+    "fecha_compra": "2023-06-01"
+  }
+]
